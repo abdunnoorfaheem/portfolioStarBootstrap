@@ -123,8 +123,70 @@ img{
 /* counter section style end */
 
 
-/* header section style start */
-/* header section style end */
+/* service section style start */
+#servicePart{
+    padding: 130px 0;
+}
+.serviceText h4{
+    font-size: 16px;
+    font-weight: 500;
+    color: #5E3BEE;
+    line-height: 26px;
+
+}
+.serviceText h3{
+    font-size: 44px;
+    font-weight: 600;
+    line-height: 56px;
+    color: #000;
+    padding-top: 22px;
+    padding-bottom: 24px;
+}
+.serviceText p{
+    width: 587px;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 32px;
+    color: #121212;
+    opacity: .7;
+    margin: 0 auto;
+    padding-bottom: 62px;
+}
+.serviceItem{
+    padding-top: 50px;
+    padding-bottom: 55px;
+    border-radius: 24px;
+    transition: .7s;
+    box-shadow: 37px 37px 80px 0 rgba(0, 0, 0, 0.1);
+   
+
+}
+.serviceItem:hover{
+     box-shadow: 37px 37px 80px 0 rgba(0, 0, 0, 0.1);
+     background: #F9F9FC;
+     
+
+}
+.serviceItem h3{
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 32px;
+    color: #000;
+    padding-top: 42px;
+    padding-bottom: 22px;
+}
+.serviceItem p{
+    width: 307px;
+    font-size: 16px;
+    font-weight: 400px;
+    color: #121212;
+    opacity: .7;
+    margin: 0 auto;
+
+}
+/* service section style end */
+
+
 /* header section style start */
 /* header section style end */
 /* header section style start */
