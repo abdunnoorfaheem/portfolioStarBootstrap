@@ -1,0 +1,63 @@
+/* all common css Start */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    outline: 0;
+    font-family: "Poppins", sans-serif;
+}
+
+ul,
+ol {
+    list-style-type: none;
+}
+
+a,
+a:hover {
+    text-decoration: none;
+    display: inline-block;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+    margin: 0;
+    padding: 0;
+    line-height: 0.8;
+}
+
+/* all common css End */
+/* header section style start */
+.nav-link{
+    font-size: 14px;
+    font-weight: 400;
+    color: #000;
+    margin-left: 30px;
+
+}
+.btn a{
+    color:#fff;
+    background: #5E3BEE;
+    padding: 15px 25px;
+    border-radius: 50px;
+}
+.btn a i{
+    padding-left: 10px;
+}
+/* header section style end */
+
+
+/* header section style start */
+/* header section style end */
+/* header section style start */
+/* header section style end */
+/* header section style start */
+/* header section style end */
+/* header section style start */
+/* header section style end */
+/* header section style start */
+/* header section style end */
