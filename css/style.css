@@ -29,6 +29,9 @@ p {
     padding: 0;
     line-height: 0.8;
 }
+img{
+    vertical-align: middle;
+}
 
 /* all common css End */
 /* header section style start */
@@ -39,20 +42,65 @@ p {
     margin-left: 30px;
 
 }
-.btn a{
+
+.btnS{
     color:#fff;
     background: #5E3BEE;
     padding: 15px 25px;
     border-radius: 50px;
+    
 }
-.btn a i{
+.btnS i{
     padding-left: 10px;
 }
+
 /* header section style end */
 
 
-/* header section style start */
-/* header section style end */
+/* banner section style start */
+#bannerPart{
+    padding: 30px 0;
+    background: #F9F9FC;
+}
+.bannerText{
+    padding-top: 120px;
+}
+.bannerText h4{
+    font-size: 16px;
+    font-weight: 500;
+    color: #5E3BEE;
+
+}
+.bannerText h1{
+    font-size: 60px;
+    font-weight: 700;
+    color: #333333;
+    line-height: 78px;
+    padding: 45px 0;
+}
+.btnSp{
+        color:#fff;
+    background: #5E3BEE;
+    padding: 15px 25px;
+    border-radius: 50px;
+    transition: .7s;
+
+}
+.btnSp:hover{
+    background: transparent;
+    color: #000;
+}
+.download i{
+    margin-right: 5px;
+}
+.hire i{
+    margin-left: 5px;
+}
+.hire{
+    margin-right: 15px;
+}
+/* banner section style end */
+
 /* header section style start */
 /* header section style end */
 /* header section style start */
