@@ -187,7 +187,17 @@ img{
 /* service section style end */
 
 
-/* header section style start */
-/* header section style end */
+/* experience section style start */
+#experiencePart{
+    height: 778px;
+    background: url(../img/bannerTwo.png);
+    background-position:center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+/* experience section style end */
+
+
 /* header section style start */
 /* header section style end */
