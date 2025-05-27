@@ -35,6 +35,9 @@ img{
 
 /* all common css End */
 /* header section style start */
+#headerPart{
+    padding: 25px 0;
+}
 .nav-link{
     font-size: 14px;
     font-weight: 400;
@@ -101,8 +104,25 @@ img{
 }
 /* banner section style end */
 
-/* header section style start */
-/* header section style end */
+/* counter section style start */
+#counterPart{
+    padding: 50px 0;
+}
+.counterItem h4{
+    font-size: 48px;
+    font-weight: 600;
+    line-height: 56px;
+}
+.counterItem h5{
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    color:#121212;
+    opacity: .7;
+}
+/* counter section style end */
+
+
 /* header section style start */
 /* header section style end */
 /* header section style start */
