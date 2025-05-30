@@ -255,8 +255,114 @@ img{
 }
 /* portfolio section style end */
 
-/* header section style start */
-/* header section style end */
+/* review section style start */
+#reviewPart{
+    height: 469px;
+    padding-top: 100px;
+    padding-bottom: 80px;
+    
+    background: url("../img/bannerThree.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+}
+.reviewText h4{
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 26px;
+    color: #5E3BEE;
+}
+.reviewText h3{
+    font-size: 44px;
+    font-weight: 600;
+    line-height: 56px;
+    color: #000;
+
+    /* padding-top: 24px;
+    padding-bottom: 31px; */
+}
+.reviewText p{
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 32px;
+    color: #121212;
+    opacity: .7;
+    width: 527px;
+    margin: 0 auto;
+    padding-bottom: 55px;
+}
+.reviewItem{
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    padding: 42px;
+    border-radius: 24px;
+    background:#fff;
+    margin-bottom: 50px;
+     
+
+}
+.reviewItem p{
+    width: 433px;
+    font-size: 18px;
+    font-weight: 500;
+    color: #000;
+    line-height: 26px;
+    padding: 32px 0;
+}
+.reviewItem i{
+    color: #EEC01C;
+}
+.ratingFlex{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.ratingPeople{
+    display: flex;
+    align-items: center;
+}
+.ratingPeople div{
+    margin-left: 15px;
+}
+.ratingInfo h4{
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 32px;
+    color: #000;
+}
+.ratingInfo h5{
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #000;
+    opacity: .5;
+}
+
+/* review section style end */
+
+
+/* contact section style start */
+#contactPart {
+  margin-top: 280px;
+  
+  
+}
+.contactText{
+    background: url("../img/background.png");
+     background-repeat: no-repeat;
+    background-size: cover;
+    background-position:center;
+    padding: 128px 302px;
+    border-radius: 24px;
+}
+.contactText h3{
+    font-size: 50px;
+    font-weight: 600;
+    line-height: 72px;
+    color: #333333;
+    padding-bottom: 33px;
+}
+/* contact section style end */
+
 
 /* header section style start */
 /* header section style end */
