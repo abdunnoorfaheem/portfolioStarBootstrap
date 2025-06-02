@@ -64,8 +64,32 @@
             margin-bottom: 20px;
          }
 
+
     /* banner part start */
 
+    /* counter part start */
+    .counterColumn{
+        width: 50%;
+        margin: 20px 0;
+    }
+    /* counter part start */
+
+
+    /* service part start */
+    .serviceText h3{
+        font-size: 32px;
+    }
+    .serviceText p{
+       width: 365px;
+    }
+    .serviceItem{
+       margin-bottom: 20px;
+    }
+    /* service part start */
+
+
+    /* banner part start */
+    /* banner part start */
     /* banner part start */
     /* banner part start */
     /* banner part start */
