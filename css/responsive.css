@@ -1,0 +1,76 @@
+/* Extra large devices  */
+@media (min-width: 1200px) {}
+
+
+/* Large devices  */
+@media (min-width: 992px) and (max-width: 1199.98px) {}
+
+
+/* Medium devices  */
+@media (min-width: 768px) and (max-width: 991.98px) {}
+
+/* Small devices  */
+@media (min-width: 576px) and (max-width: 767.98px) {}
+
+/* Extra small devices  */
+@media (min-width: 320px) and (max-width: 575.98px) {
+
+    /* header part start */
+    .navbar-toggler i {
+        color: #5E3BEE;
+        font-size: 38px;
+
+    }
+
+    .navbar-nav {
+        background: #5E3BEE;
+        text-align: center;
+        font-weight: 700;
+        border-radius: 10px;
+    }
+
+    .nav-link {
+        color: white;
+    }
+
+    .headerBtn {
+        text-align: center;
+    }
+
+    /* header part end */
+
+    /* banner part start */
+    .bannerText {
+        padding-top: 40px;
+        text-align: center;
+        width: 365px;
+        margin: 0 auto;
+    }
+
+    .bannerText h1 {
+        font-size: 44px;
+        font-weight: 700;
+        padding: 22px 0;
+
+    }
+
+    .bannerBtnOne {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+         .btnSp{
+            margin-top: 10px;
+            margin-bottom: 20px;
+         }
+
+    /* banner part start */
+
+    /* banner part start */
+    /* banner part start */
+    /* banner part start */
+    /* banner part start */
+    /* banner part start */
+    /* banner part start */
+
+}
