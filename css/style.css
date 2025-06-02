@@ -400,6 +400,7 @@ img {
     background-position: center;
     padding: 128px 302px;
     border-radius: 24px;
+
 }
 
 .contactText h3 {
@@ -427,7 +428,7 @@ img {
 }
 
 .footerBg {
-    width: 1470px;
+    max-width: 1470px;
     background: #404040;
     margin: 0 auto;
     color: #fff;

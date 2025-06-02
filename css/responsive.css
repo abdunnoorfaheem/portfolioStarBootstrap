@@ -27,10 +27,12 @@
         text-align: center;
         font-weight: 700;
         border-radius: 10px;
+        padding: 10px 0;
     }
 
     .nav-link {
         color: white;
+        margin: 0 auto;
     }
 
     .headerBtn {
@@ -59,42 +61,110 @@
         flex-direction: column;
         align-items: center;
     }
-         .btnSp{
-            margin-top: 10px;
-            margin-bottom: 20px;
-         }
+
+    .btnSp {
+        margin-top: 10px;
+        margin-bottom: 20px;
+    }
 
 
     /* banner part start */
 
     /* counter part start */
-    .counterColumn{
+    .counterColumn {
         width: 50%;
         margin: 20px 0;
     }
+
     /* counter part start */
 
 
     /* service part start */
-    .serviceText h3{
+    .serviceText h3 {
         font-size: 32px;
     }
-    .serviceText p{
-       width: 365px;
+
+    .serviceText p {
+        width: 365px;
     }
-    .serviceItem{
-       margin-bottom: 20px;
+
+    .serviceItem {
+        margin-bottom: 20px;
     }
+
     /* service part start */
 
 
-    /* banner part start */
-    /* banner part start */
-    /* banner part start */
-    /* banner part start */
-    /* banner part start */
-    /* banner part start */
-    /* banner part start */
-    /* banner part start */
+    /*portfolio part start */
+    .portfolioTitle {
+        text-align: center;
+    }
+
+    .portfolioTitle h3 {
+        font-size: 34px;
+    }
+
+    .portfolioPara p {
+        text-align: center;
+        width: 368px;
+        margin: 0 auto;
+    }
+
+    /*portfolio part start */
+
+
+    /* review part start */
+    .reviewText h3 {
+        font-size: 35px;
+        font-weight: 600;
+        width: 367px;
+        margin: 0 auto;
+    }
+
+    .reviewText p {
+        width: 368px;
+    }
+
+    .reviewItem p {
+        width: 285px;
+    }
+
+    .reviewCol {
+        width: 100%;
+    }
+
+    /* review part start */
+
+
+    /*contact part start */
+    .contactText {
+        width: 368px;
+        text-align: center;
+    }
+
+    .contactText h3 {
+        width: 314px;
+        text-align: center;
+        font-size: 38px;
+        font-weight: 600;
+    }
+
+    .contactText {
+        text-align: center;
+    }
+
+    /*contact part start */
+
+
+    /* footer part start */
+    .footerBg {
+        text-align: center;
+    }
+
+    .frCenter {
+        margin: 0 auto;
+    }
+
+    /* footer part start */
 
 }
